@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe50de8c-d4f3-4c60-bada-62e0a638853f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task03_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe50de8c-d4f3-4c60-bada-62e0a638853f" name="Changes" comment="HomeWork4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678897473569</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeWork4">
+      <created>1678960591741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678960591741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork4" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork4" />
   </component>
 </project>
